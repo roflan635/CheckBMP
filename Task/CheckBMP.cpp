@@ -3,6 +3,11 @@
 
 #include "pch.h"
 #include "Task.h"
+#include <fstream>
+bool CheckBMP(std::string fname)
+{
+
+}
 
 /*
 	Разместите в данном файле функцию, которая проверяет корректность BMP файла, имя которого передается
